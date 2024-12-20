@@ -27,8 +27,6 @@ I’ve successfully completed multiple freelance projects, and you can explore s
 - Email: owenhalvie@gmail.com
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=OHalvorson77)
-
 
 
 
