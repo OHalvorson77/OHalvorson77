@@ -5,7 +5,7 @@ I am a 4th year student at the unviersity of Ottawa studing Computer Science.
 🔭 I’m currently working on 
 
 - An automated AI video essay youtube channel
-- Training my algorithmic knowledge using leetcode, view my leetcode stats here: https://leetcode.com/u/owenhalvie/
+- Training my algorithmic knowledge beginning using leetcode, view my leetcode stats here: https://leetcode.com/u/owenhalvie/
 
 🌱 I recently finished 
 
