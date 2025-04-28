@@ -11,6 +11,8 @@ I am a 4th year student at the unviersity of Ottawa studing Computer Science.
 
 - XSpot First Prototype
 - AI Facial Recognition Model
+- Github Clone Application
+- Beauty of Math (Mandelbrot Plot Analysis) Project
 
 To Recruiters, 
 
