@@ -13,7 +13,9 @@ I am a 4th year student at the unviersity of Ottawa studing Computer Science.
 - AI Facial Recognition Model
 - Github Clone Application
 - Beauty of Math (Mandelbrot Plot Analysis) Project
-
+- BlockChain Simulation Project
+- Automated AI Video Essay Youtube Chanel
+  
 To Recruiters, 
 
 I am a dynamic and fast-learning software developer with over 19 months of hands-on experience across the full stack, from backend to frontend. I'm eager to take on challenging and innovative roles that push boundaries and fuel growth.
