@@ -1,6 +1,6 @@
 ## Hi, I'm Owen Halvorson 👋
 
-I am a 4th year student at the unviersity of Ottawa studing Computer Science.
+I am a 4th year student at the unviersity of Ottawa studing Computer Science. I am also a software engineering intern at Warner Bros - CNN Messaging and Newsletter team.
 
 🔭 I’m currently working on 
 
