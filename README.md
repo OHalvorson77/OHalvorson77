@@ -6,11 +6,12 @@ Warner Bros Work Github: https://github.com/owenhalvorsonWBD
 
 🔭 I’m currently working on 
 
-- MLB Hit Predictor Machine Learning Model (Python), finding optimized betting lines and displaying them on a front-end UI
+- Building a platform to automatically generate and deploy portfolio websites for my friends
 - Training my algorithmic knowledge beginning using leetcode, view my leetcode stats here: https://leetcode.com/u/owenhalvie/
 
 🌱 I recently finished 
 
+- MLB Hit Predictor Machine Learning Model (Python), finding optimized betting lines to make profit
 - XSpot First Prototype
 - AI Facial Recognition Model
 - Github Clone Application
