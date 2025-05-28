@@ -6,7 +6,7 @@ Warner Bros Work Github: https://github.com/owenhalvorsonWBD
 
 🔭 I’m currently working on 
 
-- Building a platform to automatically generate and deploy portfolio websites for my friends
+- Building a platform to automatically generate and deploy portfolio websites based on a voice recording or input text (Tell me about yourself type question into structured website)
 - Training my algorithmic knowledge beginning using leetcode, view my leetcode stats here: https://leetcode.com/u/owenhalvie/
 
 🌱 I recently finished 
